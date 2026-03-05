@@ -13,19 +13,19 @@ Full Stack Flipkart Clone Using LAMP Stack
 
 ## Features
 
-- 🚀 **OTP Email Verified Signup:** Ensure secure and verified user registrations.
-- 🔐 **Login, Signup & Logout:** Smooth authentication processes for users.
-- 🔄 **AJAX Requests:** Enhance user experience with seamless data retrieval.
-- ❤️ **Wishlist Management:** Enable effortless addition and removal of products.
-- 🛒 **Cart Management:** Streamline shopping experiences with easy product management.
-- 💡 **Save For Later:** Allow users to save products for future consideration.
-- 💳 **Cashfree Payment Gateway:** Facilitate secure transactions with Cashfree integration.
-- 📋 **Profile Page:** Provide a centralized hub for managing account details.
-- 📱 **Personal Info Update:** Allow users to update personal information and mobile number.
-- 🎨 **Product Details Enhancement:** Improve product browsing with dynamic hover effects.
-- 🛍️ **Buy Now & Add To Cart:** Offer convenient purchase options for users.
-- 📦 **Basic Orders Tracking:** Keep users informed with simple order tracking functionalities.
-
+- 🚀 **OTP Email Verified Signup:** Secure user registration with email verification.
+- 🔐 **Login, Signup & Logout:** User authentication system.
+- 🔄 **AJAX Requests:** Seamless data updates without reload.
+- ❤️ **Wishlist Management:** Add or remove products easily.
+- 🛒 **Cart Management:** Manage products in the cart.
+- 💡 **Save For Later:** Save items for future purchase.
+- 💳 **Cashfree Payment Gateway:** Secure payment integration.
+- 📋 **Profile Page:** Manage user account details.
+- 📱 **Personal Info Update:** Update profile and mobile number.
+- 🎨 **Product Details Enhancement:** Improved browsing with hover effects.
+- 🛍️ **Buy Now & Add To Cart:** Quick purchase options.
+- 📦 **Basic Orders Tracking:** Track order status easily.
+- 
 ## Sneak Peek of Site 🙈 :
 <!-- ![home](https://user-images.githubusercontent.com/64949957/136549386-5d3cd8e9-7499-4fe4-8652-8840930febb6.PNG) -->
 ![screencapture-flipmart-tech-2021-10-08-10_08_14](https://user-images.githubusercontent.com/64949957/136549418-cb4f98cc-7620-4f82-9298-150bb32d64ed.png)
@@ -36,3 +36,4 @@ Feel free to reach me through the below handles if you'd like to contact me.
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jagdishpatildev)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jagdishpatildev)
+
